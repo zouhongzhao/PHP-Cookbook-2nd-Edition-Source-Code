@@ -1,0 +1,48 @@
+Example 3-01: Using mktime() and date()
+Example 3-02: Finding the current date and time
+Example 3-03: Finding time parts
+Example 3-04: Finding the month, day, and year
+Example 3-05: getdate() with a specific timestamp
+Example 3-06: Using localtime()
+Example 3-07: Getting a specific epoch timestamp
+Example 3-08: Getting a specific GMT-based epoch timestamp
+Example 3-09: Working with epoch timestamps
+Example 3-10: Epoch timestamps and gmmktime()
+Example 3-11: Using date() and strftime()
+Example 3-12: Using explode() with date()
+Example 3-13: Calculating the difference between two dates
+Example 3-14: Finding elapsed time since last login
+Example 3-15: Finding date differences with Julian days
+Example 3-16: Calculating difference with arrays of date parts
+Example 3-17: Finding days of the week, month, and year
+Example 3-18: Checking for the day of the week
+Example 3-19: pc_checkbirthdate()
+Example 3-20: Parsing strings with strtotime()
+Example 3-21: Parsing a date with a regular expression
+Example 3-22: Parsing a date with substr()
+Example 3-23: Parsing a date with preg_split()
+Example 3-24: Calculating a date interval with strtotime()
+Example 3-25: Calculating a date interval with epoch timestamps
+Example 3-26: Another date interval with epoch timestamps
+Example 3-27: Simple time zone calculation
+Example 3-28: Changing time zone with date_default_timezone_set()
+Example 3-29: Changing time zone with an environment variable
+Example 3-30: Adjusting time from UTC to another time zone
+Example 3-31: Offsets from UTC
+Example 3-32: pc_mktime()
+Example 3-33: pc_strftime()
+Example 3-34: Handling DST with date_default_timezone_set()
+Example 3-35: Handling DST with zoneinfo
+Example 3-36: Handling DST with explicit offsets
+Example 3-37: Timing with microtime()
+Example 3-38: Generating an ID with microtime()
+Example 3-39: Generating the days in a week
+Example 3-40: Generating the days in a month
+Example 3-41: Converting between Julian days and the Gregorian
+        calendar
+Example 3-42: Using the Julian calendar
+Example 3-43: Using the French Republican calendar
+Example 3-44: Using the Jewish calendar
+Example 3-45: Using Date_Calc
+Example 3-46: Using pc_calendar()
+Example 3-47: pc_calendar()

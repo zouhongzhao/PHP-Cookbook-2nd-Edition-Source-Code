@@ -1,0 +1,5 @@
+Example 5-01: Correctly checking if a variable is empty
+Example 5-02: Incorrectly checking if a constant is empty
+Example 5-03: pc_check_the_count()
+Example 5-04: Using the shmop shared memory functions
+Example 5-05: Using the System V shared memory functions

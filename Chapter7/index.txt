@@ -1,0 +1,45 @@
+Example 7-01: Assigning values to properties within a class constructor
+Example 7-02: Overriding parent methods
+Example 7-03: Calling parent methods explicitly
+Example 7-04: Defining an object constructor
+Example 7-05: Defining object constructors in PHP 4
+Example 7-06: Deleting an object
+Example 7-07: Defining an object destructor
+Example 7-08: Accessing instance-specific data within a destructor
+Example 7-09: Class using access control
+Example 7-10: Selecting an email address
+Example 7-11: Selecting an email address using a function
+Example 7-12: Defining a final method
+Example 7-13: Defining a final class
+Example 7-14: Defining a class’s stringification
+Example 7-15: Defining a class’s stringification
+Example 7-16: Casting the return value
+Example 7-17: Invoking __toString()
+Example 7-18: Invoking object stringification and concateination
+Example 7-19: Invoking __toString() directly
+Example 7-20: Defining an interface
+Example 7-21: Implementing an interface
+Example 7-22: Checking if a class implements an interface
+Example 7-23: Checking if a class implements an interface using the
+        Reflection classes
+Example 7-24: Defining an abstract class
+Example 7-25: Implementing a class based on an abstract class
+Example 7-26: Using an aggregated class
+Example 7-27: Cloning an aggregated class
+Example 7-28: Properly implementing cloning in aggregated classes
+Example 7-29: Cloning an aggregated class
+Example 7-30: Implementing magic accessor methods
+Example 7-31: Using magic accessor methods
+Example 7-32: Enforcing property access using magic accessor methods
+Example 7-33: Implementing magic methods for isset() and unset()
+Example 7-34: Aggregating an address object
+Example 7-35: Centralizing method invocation using __call()
+Example 7-36: pc_Image class
+Example 7-37: Sharing a static method across instances
+Example 7-38: Controlling serialization using __sleep() and
+        __wakeUp()
+Example 7-39: Person class
+Example 7-40: Using reflection to locate function and method
+        definitions
+Example 7-41: Autoloading classes using PEAR naming conventions
+Example 7-42: whereis

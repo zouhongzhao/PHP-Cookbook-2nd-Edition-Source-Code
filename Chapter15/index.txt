@@ -1,0 +1,15 @@
+Example 15-01: Implementing a REST query server
+Example 15-02: Implementing a REST server with multiple operations
+Example 15-03: Implementing a REST server that uses HTTP verbs
+Example 15-04: pc_SOAP_return_time class
+Example 15-05: Instantiating SOAPServer
+Example 15-06: Getting the time using SOAP
+Example 15-07: Processing SOAP methods with parameters
+Example 15-08: Throwing a SOAP fault
+Example 15-09: Processing a SOAP header
+Example 15-10: Getting the time using SOAP and setting the time zone using a
+        SOAP header
+Example 15-11: Sending a SOAP header from a SOAP server
+Example 15-12: Authenticating using HTTP Basic authentication and a SOAP
+        server
+Example 15-13: Authenticating using a SOAP header and a SOAP server

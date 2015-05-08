@@ -1,0 +1,3 @@
+Example 14-01: SOAP client using WSDL
+Example 14-02: Detecting SOAP faults with exceptions
+Example 14-03: Detecting SOAP faults without exceptions

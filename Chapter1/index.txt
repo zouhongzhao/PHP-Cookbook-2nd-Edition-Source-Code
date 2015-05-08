@@ -1,0 +1,41 @@
+Example 1-01: Single-quoted strings
+Example 1-02: Double-quoted strings
+Example 1-03: Defining a here document
+Example 1-04: More here documents
+Example 1-05: Printing HTML with a here document
+Example 1-06: Concatenation with a here document
+Example 1-07: Getting an individual byte in a string
+Example 1-08: Finding a substring with strpos()
+Example 1-09: Extracting a substring with substr()
+Example 1-10: Using substr() with positive $start and $length
+Example 1-11: Using substr() with positive start and no length
+Example 1-12: Using substr() with length past the end of the string
+Example 1-13: Using substr() with negative start
+Example 1-14: Using substr() with negative length
+Example 1-15: Replacing a substring with substr_replace()
+Example 1-16: Displaying long text with an ellipsis
+Example 1-17: Processing each byte in a string
+Example 1-18: The "Look and Say" sequence
+Example 1-19: Reversing a string by byte
+Example 1-20: Reversing a string by word
+Example 1-21: Concisely reversing a string by word
+Example 1-22: Switching tabs and spaces
+Example 1-23: pc_tab_expand()
+Example 1-24: pc_tab_unexpand()
+Example 1-25: Capitalizing letters
+Example 1-26: Changing case of strings
+Example 1-27: String concatenation
+Example 1-28: Generating comma-separated data
+Example 1-29: Printing comma-separated data
+Example 1-30: Putting comma-separated data into a string
+Example 1-31: Reading CSV data from a file
+Example 1-32: Generating fixed-width field data records
+Example 1-33: Generating fixed-width field data records without
+        pack()
+Example 1-34: Parsing fixed-width records with substr()
+Example 1-35: Parsing fixed-width records with unpack()
+Example 1-36: pc_fixed_width_substr()
+Example 1-37: pc_fixed_width_unpack()
+Example 1-38: Chopping up a string with str_split()
+Example 1-39: Downloadable CSV file
+Example 1-40: Dynamic CSV or HTML

@@ -1,0 +1,30 @@
+Example 19-01: Getting the current locale
+Example 19-02: Setting a default locale
+Example 19-03: Setting a default locale based on system environment
+Example 19-04: A simple message catalog
+Example 19-05: Using the message catalog
+Example 19-06: A sprintf()-style message catalog
+Example 19-07: Using a sprintf()-style message catalog
+Example 19-08: Changing message catalog argument order
+Example 19-09: Using a message catalog with variable argument order
+Example 19-10: Message catalog functions
+Example 19-11: Message catalog objects
+Example 19-12: Using a message catalog object
+Example 19-13: Using a message catalog with strftime()
+Example 19-14: Using time formatting with a message catalog
+Example 19-15: Formatting with money_format()
+Example 19-16: Using pc_format_currency()
+Example 19-17: pc_format_currency
+Example 19-18: Finding locale-specific images
+Example 19-19: A localized &lt;img&gt; element
+Example 19-20: A localized &lt;img/&gt; element with height and width
+Example 19-21: Modifying include_path for localization
+Example 19-22: catalog-compare.php
+Example 19-23: Instantiating message catalogs
+Example 19-24: Using gettext
+Example 19-25: Setting character encoding
+Example 19-26: Using mb_strlen()
+Example 19-27: Using iconv
+Example 19-28: UTF-8 HTML encoding
+Example 19-29: UTF-8 regular expression matching
+Example 19-30: Applying UTF-8 encoding to ISO-8859-1 strings

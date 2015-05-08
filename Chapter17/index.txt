@@ -1,0 +1,4 @@
+Example 17-01: pc_ImageStringCenter()
+Example 17-02: pc_ImagePSCenter()
+Example 17-03: pc_ImageTTFCenter()
+Example 17-04: Graphical bar charts

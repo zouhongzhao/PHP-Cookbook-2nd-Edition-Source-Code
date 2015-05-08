@@ -1,0 +1,21 @@
+Example 22-01: Using preg functions
+Example 22-02: Matching with character classes and anchors
+Example 22-03: Matching with |
+Example 22-04: Finding the nth match
+Example 22-05: Grouping captured subpatterns
+Example 22-06: Making a quantifier match as few characters as possible
+Example 22-07: Making a quantifier match as few characters as possible
+Example 22-08: Greedy versus nongreedy matching
+Example 22-09: Quickly finding lines that match a pattern
+Example 22-10: Efficiently finding lines that match a pattern
+Example 22-11: Capturing HTML headings
+Example 22-12: Extracting text from HTML tags
+Example 22-13: Preventing text capture
+Example 22-14: A non-capturing optional subpattern
+Example 22-15: Generating replacement strings with a callback function
+Example 22-16: Generating replacement strings with an anonymous
+        function
+Example 22-17: Entity encoding matched text
+Example 22-18: Quote escaping in backreference replacements
+Example 22-19: Fixing quote escaping in backreference replacements
+Example 22-20: Variable names and double-quoted strings

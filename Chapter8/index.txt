@@ -1,0 +1,45 @@
+Example 8-01: Setting a cookie
+Example 8-02: Setting an expiring cookie
+Example 8-03: Setting a cookie with a path restriction
+Example 8-04: Setting a cookie with a domain restriction
+Example 8-05: Reading a cookie value
+Example 8-06: Reading all cookie values
+Example 8-07: Deleting a cookie
+Example 8-08: Redirecting to a different location
+Example 8-09: Redirecting with query string variables
+Example 8-10: Good and bad Location headers
+Example 8-11: Redirecting via a posted form
+Example 8-12: Getting browser information
+Example 8-13: Setting browscap in php.ini
+Example 8-14: Building a query string
+Example 8-15: Reading the post request body
+Example 8-16: Generating an HTML table with alternating row styles
+Example 8-17: Enforcing Basic authentication
+Example 8-18: pc_validate()
+Example 8-19: Using a validation function
+Example 8-20: Using Digest authentication
+Example 8-21: Forcing logout with Basic authentication
+Example 8-22: pc_validate2()
+Example 8-23: Using cookie authentication
+Example 8-24: Sample cookie authentication login form
+Example 8-25: Verifying a login cookie
+Example 8-26: Storing login info in a session
+Example 8-27: Verifying session info
+Example 8-28: Connecting logged-out and logged-in usage
+Example 8-29: Flushing output to the browser
+Example 8-30: Forcing IE to display content immediately
+Example 8-31: Buffering output
+Example 8-32: Using a callback with ob_start()
+Example 8-33: Reading an environment variable
+Example 8-34: Reading another environment variable
+Example 8-35: Using getenv()
+Example 8-36: Setting an environment variable
+Example 8-37: Setting an environment variable in Apache configuration
+Example 8-38: Adjusting behavior based on an environment variable
+Example 8-39: Communicating within Apache
+Example 8-40: Adding the session ID to the notes table
+Example 8-41: SQL for user verification table
+Example 8-42: notify-user.php
+Example 8-43: verify-user.php
+Example 8-44: delete-user.php
+Example 8-45: Tiny Wiki

@@ -1,0 +1,58 @@
+Example 23-01: Writing data to a file
+Example 23-02: Using file-related error information
+Example 23-03: Trimming trailing whitespace
+Example 23-04: Trimming trailing line-ending characters
+Example 23-05: Using forward slashes on Windows
+Example 23-06: Reading lines from a file
+Example 23-07: Opening a file
+Example 23-08: Safely reading a binary file
+Example 23-09: Opening files in the include_path
+Example 23-10: Creating a temporary file with tmpfile()
+Example 23-11: Creating a temporary file with tempnam()
+Example 23-12: Generating a filename with tempnam()
+Example 23-13: Opening a remote file
+Example 23-14: Using a password with FTP or HTTP
+Example 23-15: Reading from standard input
+Example 23-16: Reading a file into a string
+Example 23-17: Displaying recent images
+Example 23-18: Counting lines in a file
+Example 23-19: Counting paragraphs in a file
+Example 23-20: Counting records in a file
+Example 23-21: pc_split_paragraphs()
+Example 23-22: pc_split_paragraphs_largefile()
+Example 23-23: Counting records in a file with stream_get_line()
+Example 23-24: Processing each word in a file
+Example 23-25: Calculating average word length
+Example 23-26: Finding a random line of a file
+Example 23-27: Randomizing all lines in a file
+Example 23-28: Processing variable-length text fields
+Example 23-29: Processing a list of books
+Example 23-30: Parsing a configuration file
+Example 23-31: Logic in a configuration file
+Example 23-32: Changing a file in place
+Example 23-33: HTML-ifying a file in place
+Example 23-34: Text-ifying a file in place
+Example 23-35: Flushing output
+Example 23-36: Writing to standard output
+Example 23-37: echo versus print
+Example 23-38: pc_multi_fwrite()
+Example 23-39: pc_multi_fwrite() without $length
+Example 23-40: Escaping shell metacharacters
+Example 23-41: Using escapeshellarg()
+Example 23-42: Passing input to a program
+Example 23-43: Using popen() with nsupdate
+Example 23-44: Running a program with backticks
+Example 23-45: Reading output from popen()
+Example 23-46: Printing recent logins with popen()
+Example 23-47: Reading standard error
+Example 23-48: Redirecting standard output
+Example 23-49: Using advisory file locking
+Example 23-50: Non-blocking locking
+Example 23-51: Simulating locking with mkdir()
+Example 23-52: Error-prone file locking
+Example 23-53: Using a custom stream wrapper
+Example 23-54: Stream wrapper for concise templates
+Example 23-55: Sample template for the stream wrapper
+Example 23-56: Demonstration of the template stream wrapper
+Example 23-57: Reading a compressed file
+Example 23-58: Reading compressed data from a URL

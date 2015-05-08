@@ -1,0 +1,35 @@
+Example 9-01: Basic HTML form
+Example 9-02: Basic PHP form processing
+Example 9-03: Deciding what to do based on request method
+Example 9-04: Testing a required field
+Example 9-05: Strict form validation
+Example 9-06: Validating a number with ctype_digit()
+Example 9-07: Validating an integer with typecasting
+Example 9-08: Validating a decimal number with typecasting
+Example 9-09: Validating numbers with regular expressions
+Example 9-10: Validating an email address
+Example 9-11: Validating a drop-down menu with in_array()
+Example 9-12: Validating a drop-down menu with array_key_exists()
+Example 9-13: Validating a radio button
+Example 9-14: Validating a single checkbox
+Example 9-15: Validating a group of checkboxes
+Example 9-16: Checking a particular date
+Example 9-17: Checking credit card expiration
+Example 9-18: Validating a credit card number
+Example 9-19: Escaping HTML
+Example 9-20: Escaping HTML entities
+Example 9-21: Making a multipage form
+Example 9-22: Redisplaying a form with error messages and preserved
+        input
+Example 9-23: Insert a unique ID into a form
+Example 9-24: Checking a form for resubmission
+Example 9-25: Uploading a file
+Example 9-26: Insecure register_globals code
+Example 9-27: Avoiding register_globals problems
+Example 9-28: Naming a checkbox group
+Example 9-29: Handling a submitted checkbox group
+Example 9-30: Code equivalent of a multiple-value form element
+        submission
+Example 9-31: Generating date-based drop-down menu options
+Example 9-32: Incorrectly generating date-based drop-down menu
+        options

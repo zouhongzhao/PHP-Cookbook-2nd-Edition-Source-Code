@@ -1,0 +1,22 @@
+Example 12-01: Tonight’s TV listings
+Example 12-02: Simple address book in XML
+Example 12-03: Using SimpleXML to extract data
+Example 12-04: Printing SimpleXML objects
+Example 12-05: Parsing a DOM object
+Example 12-06: Card catalog in XML
+Example 12-07: Printing all authors using DOM
+Example 12-08: Card catalog in XML
+Example 12-09: Using XPath and DOM
+Example 12-10: Using XPath with DOM in a basic example
+Example 12-11: Using XPath with DOM in a more complicated example
+Example 12-12: Using XPath and SimpleXML in a basic example
+Example 12-13: Using XPath with SimpleXML in a more complicated
+        example
+Example 12-14: Configuring the XSLT processor
+Example 12-15: Transforming the XML data
+Example 12-16: Setting XSLT parameters from PHP
+Example 12-17: Calling PHP from an XSL stylesheet
+Example 12-18: Transforming XML with XSLT and PHP functions
+Example 12-19: Spam protecting email addresses
+Example 12-20: XSL stylesheet to spam protect email address
+Example 12-21: Validating an XML document

@@ -1,0 +1,33 @@
+Example 24-01: Using DirectoryIterator
+Example 24-02: Procedural directory iteration
+Example 24-03: Making a symbolic link
+Example 24-04: Changing the default file permissions
+Example 24-05: Getting file timestamps
+Example 24-06: Changing file modification times
+Example 24-07: Printing web page modification times
+Example 24-08: Getting file information
+Example 24-09: Converting file permission values
+Example 24-10: Changing file permissions
+Example 24-11: Changing file owner and group
+Example 24-12: Getting path components
+Example 24-13: Getting path components and file extensions
+Example 24-14: Creating a temporary file in a particular place
+Example 24-15: Including files relative to the current file
+Example 24-16: Deleting a file
+Example 24-17: Copying a file
+Example 24-18: Moving a file
+Example 24-19: Moving a file across filesystems
+Example 24-20: Processing all files in a directory
+Example 24-21: Removing . and .. from output
+Example 24-22: Using a FilterIterator
+Example 24-23: Using glob()
+Example 24-24: Processing all files in a directory recursively
+Example 24-25: Making a directory
+Example 24-26: Obliterating a directory
+Example 24-27: Obliterating a directory without
+        RecursiveIteratorIterator
+Example 24-28: web-ls.php
+Example 24-29: site-search.php
+Example 24-30: Sample HTML page
+Example 24-31: Corresponding regular expression
+Example 24-32: Stripping HTML and PHP tags

@@ -1,0 +1,45 @@
+Example 10-01: Sample table structure
+Example 10-02: Sample table data
+Example 10-03: Using a DBM database
+Example 10-04: Tracking users and passwords with a DBM database
+Example 10-05: Calculating password length with DBM
+Example 10-06: Storing structured data in a DBM database
+Example 10-07: Creating an SQLite database
+Example 10-08: Connecting with PDO
+Example 10-09: Sending a query to the database
+Example 10-10: Fetching individual rows
+Example 10-11: Binding result columns
+Example 10-12: Extending PDOStatement
+Example 10-13: Getting all results at once
+Example 10-14: Using PDO::exec()
+Example 10-15: Preparing and executing a query
+Example 10-16: Reusing a prepared statement
+Example 10-17: Running prepared statements
+Example 10-18: Multiple placeholders
+Example 10-19: Using named placeholders
+Example 10-20: Using bindParam()
+Example 10-21: Putting file contents into a database with
+        PDO::PARAM_LOB
+Example 10-22: Counting rows with rowCount()
+Example 10-23: Counting rows from a SELECT
+Example 10-24: Manual quoting
+Example 10-25: Checking for magic quotes
+Example 10-26: Printing error information
+Example 10-27: Catching database exceptions
+Example 10-28: Creating unique identifiers
+Example 10-29: Creating an auto-increment column with SQLite
+Example 10-30: Creating an auto-increment column with MySQL
+Example 10-31: Building an UPDATE query
+Example 10-32: Building an INSERT query
+Example 10-33: pc_build_query()
+Example 10-34: A simple add/edit record page
+Example 10-35: Paging with SQLite
+Example 10-36: Displaying paginated results
+Example 10-37: pc_print_link()
+Example 10-38: pc_indexed_links()
+Example 10-39: Caching query results
+Example 10-40: Creating a database connection in a static class method
+Example 10-41: Handling connections to multiple databases
+Example 10-42: Calling the PDO constructor with older PHP versions
+Example 10-43: message.php
+Example 10-44: Limiting thread depth

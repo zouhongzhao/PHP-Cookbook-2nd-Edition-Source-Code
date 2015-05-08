@@ -1,0 +1,5 @@
+Example 6-01: Accessing function parameters without using the argument
+        list
+Example 6-02: Accessing function parameters without using the argument
+        list
+Example 6-03: Returning an array value from a function by reference

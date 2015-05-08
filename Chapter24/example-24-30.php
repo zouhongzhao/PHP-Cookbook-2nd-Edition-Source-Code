@@ -1,0 +1,19 @@
+<body>
+
+// Some HTML for menus, headers, etc.
+
+<!-- search-start -->
+
+<h1>Aliens Invade Earth</h1>
+
+<h3>by H.G. Wells</h3>
+
+<p>Aliens invaded earth today. Uh Oh.</p>
+
+// More of the story
+
+<!-- search-end -->
+
+// Some HTML for footers, etc.
+
+</body>
